@@ -20,9 +20,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,git,vscode&perline=7" alt="Minhas tecnologias" />
 </div>
 <br />
-- **Front-end**: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
-- **Back-end**: Node.js, Java (básico/intermediário)  
-- **Outros**: Git, GitHub, VS Code, conceitos de responsividade e clean code
+<p>- Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js </p> 
+<p>- Back-end: Node.js, Java</p>
+<p>- Outros: Git, GitHub, VS Code, conceitos de responsividade e engenharia de prompt</p>
 
 <br />
 
