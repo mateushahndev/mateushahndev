@@ -36,7 +36,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushahndev&layout=compact&theme=dracula" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushahndev&theme=dracula" />
 </div>
 
 <br />
