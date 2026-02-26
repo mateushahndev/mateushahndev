@@ -5,11 +5,16 @@
 <br />
 
 <div align="center">
-  <h3>Desenvolvedor Full-Stack</h3>
+  <h3>Desenvolvedor Frontend</h3>
   
-  <p>Apaixonado por criar interfaces modernas e aplicações escaláveis. Atualmente focado em JavaScript/TypeScript e ecossistema front-end/back-end.</p>
+  <p>
+  Sempre gostei muito da internet dos anos 2000 — sites simples, diretos, feitos com HTML e CSS puros e antigos, onde cada detalhe era construído manualmente. 
+  Foi essa curiosidade por como as páginas funcionavam por trás dos bastidores que me levou à programação.
+  <br /><br />
+  Hoje foco em desenvolvimento Frontend com React e TypeScript, mas continuo valorizando fundamentos sólidos, código bem estruturado e a essência da web: HTML semântico, CSS bem organizado e JavaScript claro.
+  </p>
   
-  <p>Ponta Grossa/PR, Brasil • Aberto a oportunidades remotas ou presenciais</p>
+  <p>Ponta Grossa/PR, Brasil • Aberto a oportunidades remotas, presenciais ou híbridas</p>
 </div>
 
 <br />
@@ -17,25 +22,27 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,java,git,vscode&perline=7" alt="Minhas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,git,vscode&perline=5" />
 </div>
+
 <br />
-<p>- Front-end: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js </p> 
-<p>- Back-end: Node.js, Java</p>
-<p>- Outros: Git, GitHub, VS Code, conceitos de responsividade e engenharia de prompt</p>
+
+<p>- Stack Principal: HTML5, CSS3, JavaScript, TypeScript, React.js</p> 
+<p>- Stack Secundária: Node.js + Express (Básico), Java (Básico), MySQL + Sequelize (Básico)</p>
+<p>- Outros: Git, GitHub, conceitos de responsividade, SEO Técnico, APIs REST, Axios e engenharia de prompt</p>
 
 <br />
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushahndev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&langs_count=8" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushahndev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&langs_count=6&count_private=true&cache_seconds=1800" />
 </div>
 
 <br />
 
 <div align="center">
-  <p><em>“Em breve mais projetos e contribuições aqui! Estou estudando diariamente e construindo portfólio.”</em></p>
+  <p><em>“Construindo fundamentos sólidos hoje para criar sistemas melhores amanhã.”</em></p>
 </div>
 
 <br />
