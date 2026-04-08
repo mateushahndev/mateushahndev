@@ -28,7 +28,7 @@
 <br />
 
 <p>- Stack Principal: HTML5, CSS3, JavaScript, TypeScript, React.js</p> 
-<p>- Stack Secundária: Node.js + Express (Básico), Java (Básico), MySQL + Sequelize (Básico)</p>
+<p>- Stack Secundária: Node.js + Express (Básico), Java (Intermediário), MySQL + Sequelize (Básico)</p>
 <p>- Outros: Git, GitHub, conceitos de responsividade, SEO Técnico, APIs REST, Axios e engenharia de prompt</p>
 
 <br />
