@@ -1,49 +1,38 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Opa!+Sou+Mateus+Hahn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=A3E635&center=true&vCenter=true&width=435&lines=Mateus+Hahn" alt="Typing SVG" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Desenvolvedor Frontend</h3>
+  <h3>Clientes encontram você. Não seu concorrente.</h3>
   
   <p>
-  Sempre gostei muito da internet dos anos 2000 — sites simples, diretos, feitos com HTML e CSS puros e antigos, onde cada detalhe era construído manualmente. 
-  Foi essa curiosidade por como as páginas funcionavam por trás dos bastidores que me levou à programação.
-  <br /><br />
-  Hoje foco em desenvolvimento Frontend com React e TypeScript, mas continuo valorizando fundamentos sólidos, código bem estruturado e a essência da web: HTML semântico, CSS bem organizado e JavaScript claro.
+  Crio sites profissionais para pequenos negócios no Paraná.<br />
+  SEO local, chatbot de IA 24h, GEO, hospedagem gratuita e performance real.
   </p>
   
-  <p>Ponta Grossa/PR, Brasil • Aberto a oportunidades remotas, presenciais ou híbridas</p>
 </div>
 
 <br />
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 O que entrego
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,git,vscode&perline=5" />
-</div>
-
-<br />
-
-<p>- Stack Principal: HTML5, CSS3, JavaScript, TypeScript, React.js</p> 
-<p>- Stack Secundária: Node.js + Express (Básico), Java (Intermediário), MySQL + Sequelize (Básico)</p>
-<p>- Outros: Git, GitHub, conceitos de responsividade, SEO Técnico, APIs REST, Axios e engenharia de prompt</p>
-
-<br />
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushahndev&theme=dracula" />
-</div>
+- **SEO local** — seu negócio aparece no Google quando pesquisarem na sua cidade
+- **Chatbot de IA 24h** — atendimento automático, mesmo fora do horário comercial
+- **GEO** — otimizado para buscas com IA (Google AI Overview, ChatGPT)
+- **Performance real** — nota máxima no PageSpeed, carrega em menos de 2 segundos
+- **Design responsivo** — funciona perfeitamente em qualquer celular
+- **Hospedagem gratuita** — sem mensalidade, sem surpresa
+- **Copywriting orientado a dados** — cada texto do site é pensado com base no comportamento e nas dores reais do seu público
+- **Contrato transparente** — 50% no início, 50% só na entrega, com o site no ar
+- **Suporte pós-entrega** — não abandono o projeto depois que ele vai ao ar
 
 <br />
 
-<div align="center">
-  <p><em>“Construindo fundamentos sólidos hoje para criar sistemas melhores amanhã.”</em></p>
-</div>
+## 🛠️ Stack
+
+HTML5 · CSS3 · Tailwind CSS · JavaScript · TypeScript · React.js · Next.js · Node.js · Express · MySQL
 
 <br />
 
@@ -51,8 +40,16 @@
 
 <div align="center">
   
-  <a href="mailto:mateushahn333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://wa.me/5542998530633">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <a href="mailto:contato@mateushahn.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mateushahndev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
 </div>
@@ -60,5 +57,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateushahndev&label=Profile%20views&color=00ff9d&style=flat-square" alt="Profile views" />
+  <p><em>“Seu site trabalhando. Mesmo quando você não está.”</em></p>
 </div>
